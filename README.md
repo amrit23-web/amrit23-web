@@ -107,5 +107,6 @@
 </div>
 
 
-<img width ="200%" src="https://github.com/amrit23-web/amrit23-web/assets/98414882/a715c786-23f1-493b-ab7c-7a57d5f40fcc"/>
+<img width ="200%" src="https://github.com/amrit23-web/amrit23-web/assets/98414882/7995ba0b-d649-400f-b100-dd9fd96c6c01
+ "/>
 
