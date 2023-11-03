@@ -56,7 +56,7 @@
  🌼 You can connect with me on the following platforms:
   <!--
   <img width="45%" align="right" alt="Github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrit23-web&hide_progress=true&theme=dracula" /> -->
-  
+  -->
   
   
   - [LinkedIn](https://www.linkedin.com/in/amritanshu-sharma-612435202)
@@ -77,8 +77,8 @@
   - R
   - MongoDB
   - SQL
-  <!--  <img width="50%" align="right" alt="Github" src="https://github-readme-streak-stats.herokuapp.com/?user=amrit23-web&theme=dracula" alt="amrit23-web"/>-->
-    
+    <img width="50%" align="right" alt="Github" src="https://github-readme-streak-stats.herokuapp.com/?user=amrit23-web&theme=dracula" alt="amrit23-web"/>
+  
   - HTML/CSS
   - OpenCV
   - C++
